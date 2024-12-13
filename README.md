@@ -6,7 +6,7 @@ I'm [@TheAmazingJeh](https://github.com/TheAmazingJeh)
   - I enjoy programming, at the moment mostly in Python, but I am learning other languages, like C++ and Javascript.
     I also play games like Genshin Impact and Undertale/Deltarune and are developing / have developed tools for them.
 - 🔭 I'm currently working on
-  - [`TheAmazingJeh/Genshin-World-Quest-Data`](https://github.com/TheAmazingJeh/Genshin-World-Quest-Data)
+  - [`TheAmazingJeh/Genshin-World-Quest-Tracker`](https://github.com/TheAmazingJeh/Genshin-World-Quest-Tracker)
   - [`TheAmazingJeh/Deltarune-Save-Manager`](https://github.com/TheAmazingJeh/Deltarune-Save-Manager)
 - 🌱 I'm currently learning
    - [C++](https://isocpp.org/)
